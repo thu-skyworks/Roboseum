@@ -3,8 +3,7 @@ A Robot Museum for Skyworkers!
 
 这个项目对一些有名的机器人实验室和公司的产品进行产品，主要从硬件角度进行分类。采用Markdown和标签的方式记录和分类。供身边的机器人爱好者参考。当然也欢迎大家积极贡献。
 
-<center><img src="meta/pic/example.jpeg" width="400"></center>
-<center>Fig. 机器人分类</center>
+<center><img src="meta/pic/examplev1.png"></center>
 
 ## 分类标签定义
 可直接通过本标签树的叶子节点搜索对应的机器人。
