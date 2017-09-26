@@ -6,10 +6,10 @@
 ![Ocean One](../meta/pic/Ocean One.jpg)
 
 ![Ocean One 2](../meta/pic/Ocean One 2.png)
+
 斯坦福大学机器人实验室开发的人形水下遥操作机器人。上半身像人形，下半身像传统水下机器人。
 
 first come out: 2016
-
 
 - 头部有两个自由度和双目视觉
 - 双臂各有7自由度，力反馈，弹性串联驱动
