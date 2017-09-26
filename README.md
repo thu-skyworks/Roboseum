@@ -3,7 +3,7 @@ A Robot Museum for Skyworkers!
 
 这个项目对一些有名的机器人实验室和公司的产品进行产品，主要从硬件角度进行分类。采用Markdown和标签的方式记录和分类。供身边的机器人爱好者参考。当然也欢迎大家积极贡献。
 
-<center><img src="meta/pic/roboseum.jpg" width="500" ></center>
+<div align = center><img src="meta/pic/roboseum.jpg" width="500" ></div>
 
 ## 分类标签定义
 可直接通过本标签树的叶子节点搜索对应的机器人。
@@ -38,9 +38,11 @@ A Robot Museum for Skyworkers!
 1. 发起pull request(非项目成员贡献方式)
 2. 联系项目作者，成为collaborator。
 
+push方法
 
 	git clone https://github.com/thu-skyworks/Roboseum.git
-	// 编辑更改roboseum文件夹的内容~
+	# 在Roboseum中做一些修改
+	cd Roboseum
 	git add *
 	git commit -m "description of changes that you made"
 	git push origin master
