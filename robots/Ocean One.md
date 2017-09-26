@@ -4,6 +4,7 @@
  
  ---
 ![Ocean One](../meta/pic/Ocean One.jpg)
+
 ![Ocean One 2](../meta/pic/Ocean One 2.png)
 斯坦福大学机器人实验室开发的人形水下遥操作机器人。上半身像人形，下半身像传统水下机器人。
 
