@@ -8,31 +8,7 @@ A Robot Museum for Skyworkers!
 ## 分类标签定义
 可直接通过本标签树的叶子节点搜索对应的机器人。
 
-<center><img src="meta/pic/examplev1.png"></center>
-
-- 机器人
-	- 机器人整机
-		- 地面
-			- 多足
-			- 四足
-			- 双足
-			- 单足
-			- 轮式
-		- 天空
-		- 水下
-		- 空间
-		- 医疗
-		- 工业
-	- 机器人部件
-		- 执行器
-			- 电机
-			- 机械手
-			- 机械臂
-			- 轮胎
-		- 传感器
-			- 视觉
-			- 听觉
-			- 触觉
+<center><img src="meta/pic/examplev2.png"></center>
 
 ## 一个Robot可以有哪些基本信息
 关于markdown内容如何组织，一个机器人有哪些关注点的问题。
