@@ -12,11 +12,12 @@ tag: *Toyota 丰田* *人形* *外骨骼* *虚拟现实*
 
 ### 机器人的优点：
 1. 力矩伺服。这个做的非常棒，机器人的关节有应变式的力矩传感
+
 ![T-HR3](../meta/pic/T-HR3-torque-servo.jpg)
 图：力矩执行器的机械结构
+
 这是Toyota和Tamagawa Seiki and Nidec Copal Electronics合作的关节，用于测量力矩。该关节同时用于T-HR3和Master Maneuvering System.
 2. 远程控制（Master Maneuvering System, MMS). VR+关节力反馈+数据手套，整体方案做的非常棒. 更有猜测，可以利用示教的数据作为机器学习的数据，用以学习控制机器人的策略。
-
 
 ### 机器人的问题：
 1. 因为人的姿态和机器人姿态不是完美对应，有一个bias，所以人和机器人不能同时操作同一个物品。
