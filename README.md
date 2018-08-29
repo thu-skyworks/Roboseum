@@ -1,7 +1,7 @@
 # Roboseum
 A Robot Museum for Skyworkers!
 
-这个项目对一些有名的机器人实验室和公司的产品进行产品，主要从硬件角度进行分类。采用Markdown和标签的方式记录和分类。供身边的机器人爱好者参考。当然也欢迎大家积极贡献。
+这个项目对有名的机器人实验室和公司的产品进行分类介绍，主要从硬件角度进行划分。采用Markdown和标签的方式记录和分类。供身边的机器人爱好者参考。当然也欢迎大家积极贡献。
 
 <div align = center><img src="meta/pic/roboseum.jpg" width="500" ></div>
 
