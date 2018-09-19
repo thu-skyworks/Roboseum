@@ -2,7 +2,7 @@
 tag: *Keio University* *协作机器人*
 
 ---
-![Fusion](../meta/pic/fusion.jpeg)
+![Fusion](../meta/pic/Fusion.jpeg)
 
 ## 实验室
 Fusion是一个依附在人（surrogate）身上的人机协作系统，虽然目前做的非常初期，demo效果还是很振奋人心，前景非常好。
