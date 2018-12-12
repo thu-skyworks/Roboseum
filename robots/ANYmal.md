@@ -7,7 +7,7 @@ Date：2017.11.16
 
 ---
 - 图1
-![ASIMO](../meta/pic/ANYmal.png)
+![ASIMO](../meta/pic/ANYmal.PNG)
 
 - 图2
 ![ASIMO_HISTORY](../meta/pic/ANYmal2.png)
