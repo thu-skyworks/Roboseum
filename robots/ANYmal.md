@@ -52,3 +52,8 @@ ANYmal的四肢电机通过力矩控制实现柔性（官方说法，关于机�
 
 ## 拓展
 [官网链接](http://www.rsl.ethz.ch/robots-media/anymal.html)
+
+[论文](https://ieeexplore.ieee.org/document/7758092)
+
+## TODO
+- 理解论文的控制方法
