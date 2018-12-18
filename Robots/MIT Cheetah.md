@@ -23,6 +23,7 @@ The Cheetah robot是MIT Biomimetic Robotics Lab开发的一款四足机器人。
 2009年推出Cheetah1，机器人被固定在跑道上，只能前后移动和pitch，不能roll或者yaw，达到了速度22km/h（比我跑3km的均速还快…）。从实验视频中可以看到，单腿有两个自由度，两个电机并列放在肩膀位置，通过连杆控制两个自由度。这个机器人的试验中还验证了跑步提速过程中**四足步态切换**。（TODO：常用四足步态介绍）
 
 ![Cheetah1](../meta/pic/MITCheetah1Spec.jpeg)
+
 Cheetah1 Spec
 
 Cheetah1主要的目的在于节省跑步能量，上面还有很多技术尝试。比如regenerative motor driver，利用能量存储再生的方式减小跑步过程的动能损失。腿上连接了Kevlar(防弹衣材料) tendor来减小撞地时腿上的冲击。身体前后两部分由中空脊柱连接，脊柱还差分地连上了tendor。（TODO:这部分比较混乱，之后会找文章扩充，求讨论！）。总之是实现了非常强大的生物机理的模仿和机械设计。
@@ -55,7 +56,6 @@ Cheetah2用上了实验室自研的电机，机器人本体重了很多，可以
 
 
 TODO：
-
 ### 低阻抗设计：无需末端力传感器的力控方案？
 low-impedance transmission: Low inertia, low friction, where there’s no stiffness. The inertia and the friction is most of it.
 
@@ -88,6 +88,7 @@ Cheetah3的造型就很轻盈时尚，很2018了。看到是视频感到各种�
 ### 稳定过障碍CPG(Central Pattern Generator)
 大部分时间四脚着地，左前右后和左后右前交替往前。该步态已经可以用于行走障碍物堆和爬楼梯。[具体效果视频](https://www.youtube.com/watch?v=0RoySGaJNho)。
 ![Cheetah3 CPG](../meta/pic/MITCheetah3CPG.png)
+
 CPG循环图
 
 ### 跳跃步态
