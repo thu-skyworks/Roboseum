@@ -32,7 +32,7 @@ Balance Feedback Interface(BFI)
 
 目前机器人还不能行走，可以进行遥操作击穿木板，拿斧头劈门，拿灭火器灭火这样的工作。
 
-## 链接
+## 拓展
 [MIT 官方 demo](https://www.youtube.com/watch?time_continue=160&v=2-5n2IsdCqU)
 
 [官方介绍视频](https://www.youtube.com/watch?time_continue=196&v=p8ozov_xymM)
