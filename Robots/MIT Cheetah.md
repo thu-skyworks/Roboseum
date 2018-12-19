@@ -98,6 +98,7 @@ CPG循环图
 - 每条腿3个自由度(相比于前代有很大进步，可以灵巧转身)
 - 依然所有电机都在肩膀关节，而且传动采用了骚气的链传动。(虽然机械效率低了点，但是传动比稳定可靠，不会错齿，做这个的小哥肯定很会修自行车🚲)
 - 腿部膝关节可以变换弯曲方向
+- 重量：32kg
 
 ### 能力
 - 稳定步态走路
@@ -124,6 +125,8 @@ CPG循环图
 [Cheetah2 Press Inteview on ICRA2015](https://robohub.org/robots-cheetah-2/),I think this is very useful since Prof. Kim explained a lot of concept in the inteview.
 
 [Cheetah3 Video](https://www.youtube.com/watch?time_continue=11&v=QZ1DaQgg3lE)
+
+[Cheetah3 Press Coverage](http://news.mit.edu/2018/blind-cheetah-robot-climb-stairs-obstacles-disaster-zones-0705)
 
 TODO: add related paper and read thru.
 
