@@ -14,6 +14,7 @@
 - 软件算法原理部分：[郑亦平](https://github.com/Yiping-Steven)
 
 最后更新于：2018年12月31日
+清华大学天空工场兴趣团队
 
 <div align = center><img src="meta/pic/roboseum.jpg" width="500" ></div>
 
