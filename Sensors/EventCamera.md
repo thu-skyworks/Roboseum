@@ -1,3 +1,0 @@
-#EventCamera
-DAVIS
-ETH

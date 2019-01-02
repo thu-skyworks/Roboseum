@@ -1,3 +1,0 @@
-#Gazebo
-
-A physical simulator.
