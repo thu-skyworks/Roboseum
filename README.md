@@ -11,7 +11,7 @@
 
 主要作者：
 - 机电硬件系统部分：[顾兆元](https://github.com/guzhaoyuan)（机械系）、[小山嘉](https://github.com/sicoco)（电机系）、[郑亦平](https://github.com/Yiping-Steven)（自动化系）
-- 软件算法原理部分：[郑亦平](https://github.com/Yiping-Steven)
+- 软件算法原理部分：郑亦平
 
 
 **清华大学天空工场兴趣团队**
